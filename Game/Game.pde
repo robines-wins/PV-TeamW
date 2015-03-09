@@ -5,7 +5,7 @@ void setup(){
   size(500,500,P3D);
   noStroke();  
 }
-
+//yolo
 void draw() {
 camera(width/2, height/2, depth, 250, 250, 0, 0, 1, 0);
 translate(width/2, height/2, 0);
